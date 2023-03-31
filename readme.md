@@ -382,19 +382,3 @@ docker compose down
 
 更多介绍，参考[飞书上的小计算器: Go 机器人来啦](https://www.bilibili.com/video/BV12M41187rV/)
 
-## 更多交流
-
-如需协助部署，或者其他定制服务，可联系下面的WeChat，支持发票~
-
-遇到问题，可以加入飞书群沟通~
-
-<img src='./docs/talk.png' alt='' width='200'/>
-
-## 交朋友 或者 鼓励一下
-
-如果你觉得这个项目对你有帮助，可以请作者买本书~
-
-<img width="400" src="https://user-images.githubusercontent.com/50035229/224462896-28f7b2d5-f443-4cc2-9790-7b72e5c53f15.png">
-
-😚 谢谢你啦 😚
-
